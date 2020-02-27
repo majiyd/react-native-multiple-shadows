@@ -25,6 +25,7 @@ const MultipleShadows = ({count, children, style, shadowStyles}) => {
 MultipleShadows.propTypes = {
   count: PropTypes.number,
   shadowStyles: PropTypes.arrayOf(PropTypes.object),
+  style: PropTypes.object,
 };
 
 export default MultipleShadows;
