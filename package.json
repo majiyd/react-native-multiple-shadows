@@ -1,0 +1,34 @@
+{
+  "name": "react-native-multiple-shadows",
+  "version": "0.0.1",
+  "description": "A wrapper component to implement multiple shadows in react native.",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "react-native-shadow",
+    "multiple-shadows",
+    "react-native-multiple-shadow",
+    "shadow",
+    "react native",
+    "mobile",
+    "ios"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majiyd/react-native-multiple-shadows.git"
+  },
+  "author": "Suleiman Majeed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/majiyd/react-native-multiple-shadows/issues"
+  },
+  "homepage": "https://github.com/majiyd/react-native-multiple-shadows#readme",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "prop-types": "*"
+  }
+}
