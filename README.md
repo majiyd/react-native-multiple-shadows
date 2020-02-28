@@ -35,9 +35,9 @@ Example:
 ```js
 import React from 'react';
 import {SafeAreaView, StyleSheet, View, Text, StatusBar} from 'react-native';
-import MultipleShadows from './MultipleShadows';
+import MultipleShadows from "react-native-multiple-shadows";
 
-// Shadows may also be initialised in a stylesheet stylesheet.
+// Shadows may also be initialised in a stylesheet.
 const shadows = [
   {
     shadowColor: 'red',
